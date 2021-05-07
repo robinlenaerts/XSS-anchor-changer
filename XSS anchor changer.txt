@@ -1,1 +1,6 @@
-<script>onload=function(){var x=document.getElementsByTagName("a");for(var i=0;i<x.length;i++){x[i].href="https://www.example.com"}}</script>
+<script>
+var x=document.getElementsByTagName("a");
+for(var i=0;i<x.length;i++){
+  x[i].href="https://www.example.com";
+}
+</script>
